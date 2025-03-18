@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @Pedro-Fleck
 - 👀 I’m interested in coding and backend developing 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and java
 - 💞️ I’m looking to collaborate on doing new projects.
 - 📫 How to reach me: pedrocfleck2001@gmail.com 
 - 😄 Pronouns: he/him
