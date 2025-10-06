@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and java
 - 💞️ I’m looking to collaborate on doing new projects.
 - 📫 How to reach me: pedrocfleck2001@gmail.com 
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Currently doing Software Engeneering at PUCRS
 <!---
 Pedro-Fleck/Pedro-Fleck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
